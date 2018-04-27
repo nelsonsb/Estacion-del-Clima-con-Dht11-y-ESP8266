@@ -8,7 +8,8 @@ El código muestra un script básico que envía a una Url los datos ya mencionad
 Del lado de servidor se elaboró un script sencillo en PHP que recibe tales valores y los almacena en una base de datos, para su posterior visualización en una aplicación móvil.
 
 Pueden encontrar más detalles de todo el proyecto en nuestro blog:
-[Blog](http://www.moviltracing.com/blog/estacion-del-clima-con-esp8266)
+
+[Estación clima con DHT11 y ESP8266](http://www.moviltracing.com/blog/estacion-del-clima-con-esp8266)
 
 
 Esperamos que sea de gran ayuda en sus proyectos de IoT.
