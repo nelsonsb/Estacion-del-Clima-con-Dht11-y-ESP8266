@@ -11,6 +11,12 @@ Pueden encontrar más detalles de todo el proyecto en nuestro blog:
 
 [Estación clima con DHT11 y ESP8266](http://www.moviltracing.com/blog/estacion-del-clima-con-esp8266)
 
+Veamos el diagrama de conexiones :
+
+![Imagen 1](http://moviltracing.com/iot/images/esp8266_dht11_.png)
+
+El resultado:
+
 ![Imagen 1](http://moviltracing.com/iot/images/20180309_210203.jpg)
 
 Esperamos que sea de gran ayuda en sus proyectos de IoT.
