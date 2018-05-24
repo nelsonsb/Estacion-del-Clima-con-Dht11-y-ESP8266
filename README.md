@@ -13,12 +13,11 @@ Pueden encontrar más detalles de todo el proyecto en nuestro blog:
 
 Veamos el diagrama de conexiones :
 
-![Imagen 1](http://moviltracing.com/iot/images/esp8266_dht11_.png)
-<img src="http://moviltracing.com/iot/images/esp8266_dht11_.png" width="300px" />
+<img src="http://moviltracing.com/iot/images/esp8266_dht11_.png" width="500px" />
 
 El resultado:
 
-![Imagen 1](http://moviltracing.com/iot/images/20180309_210203.jpg)
+<img src="http://moviltracing.com/iot/images/20180309_210203.jpg" width="500px" />
 
 Esperamos que sea de gran ayuda en sus proyectos de IoT.
 
