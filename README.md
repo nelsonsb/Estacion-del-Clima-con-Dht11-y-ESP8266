@@ -21,6 +21,12 @@ El resultado:
 
 Esperamos que sea de gran ayuda en sus proyectos de IoT.
 
+
+##Actualización (Julio/2018)
+
+Se incluye un nuevo script en el cual la información se envía ahora a un servidor MMQTT montado en la plataforma openhab.
+
+
 Saludos
 
 El equipo Moviltracing
